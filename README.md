@@ -105,5 +105,3 @@ If you encounter issues, contact via Discord: murtesa_gamer.
 ---
 
 Thank you for using Gmail Security Bot! Don't forget to star the repository! ⭐
-EOF
-)
