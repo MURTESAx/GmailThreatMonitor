@@ -21,7 +21,7 @@ A Node.js bot that automatically monitors your Gmail for malicious emails using 
 4. Set up OAuth 2.0 credentials:
    - Add permission scopes for Gmail read/send access.
    - Download the credentials JSON file.
-   - Save the file as \`credentials.json\` in your project folder.
+   - Save the file as \` credentials.json\` in your project folder.
 
 ### VirusTotal API
 1. Create an account on VirusTotal.
