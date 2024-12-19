@@ -1,0 +1,19 @@
+{
+  "name": "gmail-security-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "auth": "node auth.js",
+    "check-token": "node check-token.js",
+    "monitor": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0"
+  }
+}
